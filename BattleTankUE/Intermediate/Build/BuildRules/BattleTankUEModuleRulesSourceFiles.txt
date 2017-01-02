@@ -1,0 +1,3 @@
+D:\Dropbox (Groove Jones)\Dale\Unreal\BattleTank\BattleTankUE\Source\BattleTankUE\BattleTankUE.Build.cs
+D:\Dropbox (Groove Jones)\Dale\Unreal\BattleTank\BattleTankUE\Source\BattleTankUE.Target.cs
+D:\Dropbox (Groove Jones)\Dale\Unreal\BattleTank\BattleTankUE\Source\BattleTankUEEditor.Target.cs
